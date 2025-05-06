@@ -1,1 +1,2 @@
 
+select * from ADIDAS.PUBLIC.SALES_DATA

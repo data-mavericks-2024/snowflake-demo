@@ -1,2 +1,2 @@
 select * from ADIDAS.PUBLIC.SALES_DATA
-where state='New York' and product='Mens Apparel'
+where state='New York' and product='Mens Street Footwear'
